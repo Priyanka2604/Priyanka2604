@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there I'm Priyanka😃<br>🔭 A Software Engineer with 1.5+ years of industrial experience in Backend Development and Engineering<br>🌱 I’m currently learning DSA in-depth<br>🙌🏼Actively Seeking new Opportunities in Software Engineering Roles<br>📫reach me here: priyankadas2610@gmail.com
+Hi there I'm Priyanka😃<br>🔭 A Software Engineer with 1.5+ years of industrial experience in Backend Development and Engineering<br>🌱 I’m currently learning DSA in-depth<br>🙌🏼 Actively Seeking new Opportunities in Software Engineering Roles<br>📫 reach me here: priyankadas2610@gmail.com
 
 
 ## 🌐 Socials:
