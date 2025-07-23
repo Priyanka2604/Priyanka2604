@@ -1,6 +1,6 @@
 # 💫 About Me:
 <h2 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4100&lines=Hi+There!+👋+I'm+Priyanka;"/>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Bitcount+Prop+Double&pause=3000&color=21F75B&size=35&center=true&vCenter=true&width=700&height=70&duration=4100&lines=Hi+There!+👋+I'm+Priyanka;"/>
 </h2>
 
 <br>🔭 A Software Engineer with 1.5+ years of industrial experience in Backend Development and Engineering<br>🌱 I’m currently learning DSA in-depth<br>🙌🏼 Actively Seeking new Opportunities in Software Engineering Roles<br>📫 reach me here: priyankadas2610@gmail.com
@@ -28,14 +28,19 @@
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-# 📊 GitHub Stats:
+
+# 📊 GitHub Stats: 
+## 🚀 The main thing is consistency
 ![](https://github-readme-stats.vercel.app/api?username=Priyanka2604&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Priyanka2604&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanka2604&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 [![](https://visitcount.itsvg.in/api?id=Priyanka2604&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priyanka2604" alt="priyanka2604" /></a> </p>
+
+## Leetcode
+<div align="left">
+  <a href="https://leetcode.com/popcorn04/"><img src="https://leetcard.jacoblin.cool/popcorn04?theme=dark" width="400" /></a>
+</div>
 
 
 <h3 align="left">Coding Profiles:</h3>
